@@ -11,8 +11,8 @@
 <br/><br/>
 
 <a href="https://oculusagent.xyz"><img src="https://img.shields.io/badge/site-oculusagent.xyz-0052ff?style=flat-square&labelColor=0a1628" alt="site"/></a>
-<a href="https://github.com/usehyperchan?tab=followers"><img src="https://img.shields.io/github/followers/usehyperchan?style=flat-square&color=0052ff&labelColor=0a1628&label=followers" alt="followers"/></a>
-<a href="https://github.com/usehyperchan/oculus-program/stargazers"><img src="https://img.shields.io/github/stars/usehyperchan/oculus-program?style=flat-square&color=0052ff&labelColor=0a1628&label=stars" alt="stars"/></a>
+<a href="https://github.com/OculusAgent?tab=followers"><img src="https://img.shields.io/github/followers/useoculus?style=flat-square&color=0052ff&labelColor=0a1628&label=followers" alt="followers"/></a>
+<a href="https://github.com/OculusAgent/oculus-program/stargazers"><img src="https://img.shields.io/github/stars/useoculus/oculus-program?style=flat-square&color=0052ff&labelColor=0a1628&label=stars" alt="stars"/></a>
 
 </div>
 
@@ -30,9 +30,9 @@ The agent doesn't need to be smarter. It needs a policy.
 
 | Repo | Purpose | Language |
 |------|---------|----------|
-| [oculus-program](https://github.com/usehyperchan/oculus-program) | On-chain policy enforcement | Rust / Anchor |
-| [oculus-sdk](https://github.com/usehyperchan/oculus-sdk) | TypeScript SDK for agent integration | TypeScript |
-| [oculus-webhook](https://github.com/usehyperchan/oculus-webhook) | Helius webhook ingestor + refund queue | Python / FastAPI |
+| [oculus-program](https://github.com/OculusAgent/oculus-program) | On-chain policy enforcement | Rust / Anchor |
+| [oculus-sdk](https://github.com/OculusAgent/oculus-sdk) | TypeScript SDK for agent integration | TypeScript |
+| [oculus-webhook](https://github.com/OculusAgent/oculus-webhook) | Helius webhook ingestor + refund queue | Python / FastAPI |
 
 <br/>
 
@@ -57,8 +57,8 @@ agent ──► proposes tx ──► oculus-sdk.checkSpend ──► oculus-pro
 ## ⌬ &nbsp; stats
 
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=usehyperchan&show_icons=true&theme=transparent&hide_border=true&bg_color=0a1628&title_color=0052ff&icon_color=0052ff&text_color=ffffff&include_all_commits=true&rank_icon=github"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usehyperchan&layout=compact&theme=transparent&hide_border=true&bg_color=0a1628&title_color=0052ff&text_color=ffffff&langs_count=6"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=useoculus&show_icons=true&theme=transparent&hide_border=true&bg_color=0a1628&title_color=0052ff&icon_color=0052ff&text_color=ffffff&include_all_commits=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=useoculus&layout=compact&theme=transparent&hide_border=true&bg_color=0a1628&title_color=0052ff&text_color=ffffff&langs_count=6"/>
 </div>
 
 <br/>
